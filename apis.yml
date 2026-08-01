@@ -1,23 +1,82 @@
 aid: physical-property-testing
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/physical-property-testing.png
 name: Physical Property Testing
-description: Physical Property Testing is a company surfaced as a portfolio company of battery-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Physical Properties Testers (PPT) Group is a Halifax, UK based multinational
+  manufacturer of physical property test and measurement instrumentation, built
+  through acquisition around four brands: James Heal (textile testing including
+  bursting strength, abrasion and tear), Mecmesin (universal testing machines,
+  torque testers and digital force gauges), Alluris (handheld force gauges and
+  force/torque instrumentation) and Lansmont (shock, vibration and drop testing
+  systems). The group designs, produces and services testing equipment that
+  verifies the physical integrity and quality of raw materials, components and
+  finished products across textiles, packaging, manufacturing and consumer
+  goods. It is a hardware and laboratory-instrumentation business with no public
+  developer API, SDK, or webhook surface. Registered in England and Wales
+  (company no. 09210539); a portfolio company of SK Capital Partners since
+  March 2025 (previously backed by Battery Ventures). This profile was surfaced
+  as a VC portfolio lead and enriched with company identity from public sources.
 url: https://raw.githubusercontent.com/api-evangelist/physical-property-testing/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: no-api-surface
+x-company:
+  legal-name: Physical Properties Testers (PPT) Group Limited
+  headquarters: Richmond Works, Lake View, Halifax HX3 6EP, United Kingdom
+  registration: England and Wales, company no. 09210539
+  owner: SK Capital Partners (acquired March 2025)
+  brands:
+  - James Heal
+  - Mecmesin
+  - Alluris
+  - Lansmont
+  employees: 51-200
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Testing
+- Instrumentation
+- Manufacturing
+- Laboratory
+- Materials Testing
+- Hardware
 apis: []
+common:
+- type: Website
+  url: https://www.pptgroup.com/
+- type: About
+  url: https://www.pptgroup.com/about-us
+- type: PrivacyPolicy
+  url: https://www.pptgroup.com/privacy-policy
+- type: Careers
+  url: https://www.pptgroup.com/careers
+- type: LinkedIn
+  url: https://www.linkedin.com/company/physical-properties-testers
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/ppt-group
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
