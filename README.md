@@ -64,6 +64,70 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Physical Property Testing is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Physical Properties Testers (PPT) Group is a Halifax, UK based multinational manufacturer of physical property test and measurement instrumentation, built through acquisition around four brands: James Heal (textile testing including bursting strength, abrasion and tear), Mecmesin (universal testing machines, torque testers and digital force gauges), Alluris (handheld force gauges and force/torque instrumentation) and Lansmont (shock, vibration and drop testing systems). The group designs, produces and services testing equipment that verifies the physical integrity and quality of raw materials, components and finished products across textiles, packaging, manufacturing and consumer goods. It is a hardware and laboratory-instrumentation business with no public developer API, SDK, or webhook surface. Registered in England and Wales (company no. 09210539); a portfolio company of SK Capital Partners since March 2025 (previously backed by Battery Ventures). This profile was surfaced as a VC portfolio lead and enriched with company identity from public sources.
 
-Backed by: battery-ventures
+**Areas:** Company · Testing · Instrumentation · Manufacturing · Laboratory · Materials Testing · Hardware
+
+## Physical Property Testing on APIs.io
+
+Everything profiled for Physical Property Testing is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/physical-property-testing/](https://apis.io/providers/physical-property-testing/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pptgroup.com/)
+- [Privacy policy](https://www.pptgroup.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 5.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/physical-property-testing/](https://apis.io/providers/physical-property-testing/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Physical Property Testing: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/physical-property-testing/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
